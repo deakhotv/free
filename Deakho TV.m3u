@@ -1,5 +1,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangladeshi News", Channel 24 (N)
 https://static.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+https://static.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgiwunK.png" group-title="Bangladeshi News", DBC News HD (N)
 https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wqYBj6f.png" group-title="Bangladeshi News", Ekhon TV HD (N)
@@ -211,3 +212,104 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=testhttps://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fqGKiwX.png" group-title="Music", Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2b0mreEKtFyRw6a4lbqgfUSOWSJ-NMIsdNg&s" group-title="JagoBD",Channel 24
+https://static.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" group-title="JagoBD",Somoy TV
+https://static.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/playlist.m3u8|referer=www.017666.blogspot.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32r8EN-5z5gaRaC_IzkGk0cmJnA5lOm1eOw&s" group-title="JagoBD",JAMUNA
+https://static.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8|referer=www.jagobd.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="JagoBD",ATN
+https://static.jagobd.com.bd/live-orgin/atnbd-8-org.stream/playlist.m3u8|referer=www.jagobd.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="JagoBD",ATN NESW
+https://static.jagobd.com.bd/live-orgin/atnws-sg.stream/playlist.m3u8|referer=www.017666.blogspot.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0n_LkV3T-XzHRkHD0KMqULQa_783ggR-r_F5fnlOdZL3V0kCLFG_FAo&s=10" group-title="JagoBD",Channel i
+https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="JagoBD",DIPTO PLAY
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="JagoBD",Masranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s" group-title="JagoBD",Ekhusjey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news-150x150.jpg?x59782" group-title="JagoBD",DBC
+https://static.jagobd.com.bd/live-orgin/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" group-title="JagoBD",SA TV
+https://static.jagobd.com.bd/live-orgin/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9GtC-NGgGLBS3mJ84Oxv3cybF7Ta6NyHuUOpivz8saRoK7NdCzOwqcU&s=10" group-title="JagoBD",INDEPENDENT TV
+https://static.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLXqefuqYqfbeg-ibB-N9HQjsZPKLNS2slA&s" group-title="JagoBD",RTV
+https://static.jagobd.com.bd/live-orgin/rtv-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrc1crYbc-1FSRRPcgxd-eqbKxqtDUULkJIQ&s" group-title="JagoBD",NTV
+https://static.jagobd.com.bd/live-orgin/ntvuk00332211.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcwksaX6NU0AssTITOBFGXi9qbXVYhbpPsmkCMEV88JnNYLT9TR3TEI8&s=10" group-title="JagoBD",NEWS 24
+https://static.jagobd.com.bd/live-orgin/news24local.stream/playlist.m3u8|referer=www.017666.blogspot.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1-150x150.png?x59782" group-title="JagoBD",DESH TV
+https://static.jagobd.com.bd/live-orgin/deshtv.stream/playlist.m3u8|referer=www.017666.blogspot.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="JagoBD",Boishakhi TV
+https://app.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s" group-title="JagoBD",Ekattor  TV
+https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8|referer=www.017666.blogspot.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="JagoBD",Banglavishion
+https://static.jagobd.com.bd/live-orgin/banglav000.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJghBvTz9mJsxJ1GIMQLuMTidXo4k0yy8_Q&s" group-title="JagoBD",Ekhon Tv
+https://static.jagobd.com.bd/live-orgin/globaltv.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="JagoBD",Asian TV
+https://static.jagobd.com.bd/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="JagoBD",Bijoy TV
+https://static.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8|referer=www.017666.blogspot.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpqw-fmp3P5KN6qg19ANXq61GkBNWvQTalA&s" group-title="JagoBD",Al Jajira English
+https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="JagoBD",Madina Tv Live
+https://static.jagobd.com.bd/live-orgin/madanitvbangla.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/chsbd-150x150.jpg?x59782" group-title="JagoBD",Channel S
+https://static.jagobd.com.bd/live-orgin/channels.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/gtv.jpg?x59782" group-title="JagoBD",G TV
+https://static.jagobd.com.bd/live-orgin/gazibd.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc.png" group-title="JagoBD",Doccumentary
+https://static.jagobd.com.bd/live-orgin/cgtndoc.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="JagoBD",BTV NEWS
+https://app.ncare.live/live-orgin/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="JagoBD",MY TV
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/k2pZI4ICzAXwZVzMpB232mOwKAzGBrsWQ-ctp0xZjiVAm_n7pb89afOYrrvRZRoNQqE" group-title="JagoBD",Milenium TV
+https://app.ncare.live/live-orgin/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="JagoBD",Channel 9
+https://static.jagobd.com.bd/live-orgin/channel9hd.stream/playlist.m3u8|referer=www.017666.blogspot.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/10/vooa-150x150.jpg" group-title="JagoBD",Voice of America
+https://static.jagobd.com.bd/live-orgin/voadoc.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x59782" group-title="JagoBD",SongSod TV
+https://app.ncare.live/live-orgin/songsodtv-world.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/11/globaltv-150x150.jpg?x59782" group-title="JagoBD",Global TV
+https://app.ncare.live/live-orgin/Global-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/imgAllNew/BG/2019October/jagonews24-md-20191101153408.jpg" group-title="JagoBD",Jagonews
+https://static.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona-150x150.jpg?x59782" group-title="JagoBD",Mohona TV
+https://app.ncare.live/live-orgin/mohonatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="JagoBD",CNN
+https://live-manifests-lln.warnermediacdn.com/csmp/cmaf/live/2028716/cnnfast-international/master_de.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata-150x150.jpg?x59782" group-title="JagoBD",Somoy  Kolkata
+https://app.ncare.live/live-orgin/samaykolkata.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" group-title="JagoBD",Deen TV UK
+https://static.jagobd.com.bd/live-orgin/deentv.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="JagoBD",DW NEWS
+https://static.jagobd.com.bd/live-orgin/dwnews.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/unnamed-150x150.webp?x59782" group-title="JagoBD",Ruposhi Bangla
+https://app.ncare.live/live-orgin/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="JagoBD",BTV
+https://static.jagobd.com.bd/live-orgin/btvnational1.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="JagoBD",Iqra Bangla
+https://static.jagobd.com.bd/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="JagoBD",Makka Live
+https://static.jagobd.com.bd/live-orgin/makkahtv.stream/playlist.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="JagoBD",ATN ISLAMIC
+https://static.jagobd.com.bd/live-orgin/atnislamictv.stream/playlist.m3u8|referer=www.017666.blogspot.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png" group-title="JagoBD",ISlamic Bangla
+https://cdn149.anystream.uk:8082/app/ic6a5l6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png?x67896" group-title="JagoBD",Peace Tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png" group-title="JagoBD",TEST LINK
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8?e=1736165612&st=QCbAmF0nTNZaYR6xAxETOg
